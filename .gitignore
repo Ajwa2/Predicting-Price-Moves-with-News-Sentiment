@@ -1,1 +1,3 @@
-.venv/`nData/`n*.csv
+.venv/
+Data/
+*.csv
